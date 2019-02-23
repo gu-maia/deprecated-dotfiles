@@ -9,3 +9,4 @@ Softwares:
  * Compton.
  * Flameshot.
  * Pywal.
+ * Ranger.
