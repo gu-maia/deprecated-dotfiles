@@ -4,7 +4,9 @@
 ![alt text](https://github.com/sazukegu/dotfiles/blob/master/rice2,2.png?raw=true)
 
 Softwares:
+ * i3gaps.
  * URxvt.
+ * rofi.
  * Polybar.
  * Compton.
  * Flameshot.
